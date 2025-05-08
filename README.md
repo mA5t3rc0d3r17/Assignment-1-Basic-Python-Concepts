@@ -20,7 +20,7 @@ This is a simple Python program that performs basic arithmetic operations on two
 4. The program will display the results of all four operations
 
 ## Example
-
+```bash
 - Enter the first number: 5
 - Enter the second number: 10
 
@@ -28,6 +28,7 @@ This is a simple Python program that performs basic arithmetic operations on two
 - Subtraction: -5
 - Multiplication: 50
 - Division: 0.5
+```
 
 # Create a Personalized Greeting
 
@@ -36,7 +37,7 @@ This is a simple Python program that asks for the user's first and last name, th
 ## How to Use
 
 1. Make sure you have Python installed on your computer
-2. Run the program by executing: `python welcome_program.py`
+2. Run the program by executing: `python task2.py`
 3. When prompted, enter your first name and press Enter
 4. Then enter your last name and press Enter
 5. The program will display a personalized welcome message
@@ -50,8 +51,9 @@ The program performs the following steps:
 - Outputs a welcome message that includes both the first and last names
 
 ## Example
-
+```bash
 - Enter your first name: John
 - Enter your last name: Doe
 
 - Hello, John Doe! Welcome to the Python program.
+```
