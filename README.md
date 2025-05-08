@@ -14,10 +14,11 @@ This is a simple Python program that performs basic arithmetic operations on two
 - Displays the results of all operations
 
 ## How to Use
-1. Run the program in a Python environment
-2. When prompted, enter the first number
-3. When prompted, enter the second number
-4. The program will display the results of all four operations
+1. Make sure you have Python installed on your computer
+2. Run the program by executing: `python task1.py`
+3. When prompted, enter your first number and press Enter
+4. Then enter your second number and press Enter
+5. The program will display the results of all four operations
 
 ## Example
 ```bash
